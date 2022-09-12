@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@giridharvel](https://medium.com/@giridharvel)
 
-- 💬 Ask me about **Microservice architecture, Java frameworks**
+- 💬 Ask me about **Microservice architecture, Databases and Frameworks related to Java**
 
 - 📫 How to reach me **giridharvel@gmail.com**
 
